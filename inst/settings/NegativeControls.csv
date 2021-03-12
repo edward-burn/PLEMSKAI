@@ -1,0 +1,52 @@
+targetId,comparatorId,outcomeId,outcomeName,type
+35,102,439935,Abnormal posture,outcome
+35,102,436409,Abnormal pupil,outcome
+35,102,443702,Abnormal response to nerve stimulation,outcome
+35,102,443585,Abrasion and/or friction burn of multiple sites,outcome
+35,102,257011,Acute upper respiratory infection,outcome
+35,102,4303805,Allergic reaction to bite and/or sting,outcome
+35,102,438391,Amino acid transport disorder,outcome
+35,102,434916,"Amphetamine or psychostimulant dependence, continuous",outcome
+35,102,4103642,Amputated toe,outcome
+35,102,76725,Anal fissure,outcome
+35,102,434327,Cannabis abuse,outcome
+35,102,42709838,Cellulitis of lower limb,outcome
+35,102,434490,Chill,outcome
+35,102,196454,Colostomy and enterostomy malfunction,outcome
+35,102,4201390,Colostomy present,outcome
+35,102,438624,Complication of renal dialysis,outcome
+35,102,201606,Crohn's disease,outcome
+35,102,433163,Deficiency of macronutrients,outcome
+35,102,435796,Dehydration,outcome
+35,102,372329,Dissociated deviation,outcome
+35,102,31317,Dysphagia,outcome
+35,102,433111,Effects of hunger,outcome
+35,102,437448,Exhaustion due to excessive exertion,outcome
+35,102,374801,Foreign body in ear,outcome
+35,102,4163735,Hemochromatosis,outcome
+35,102,4295287,Hypercoagulability state,outcome
+35,102,440072,Hypogammaglobulinemia,outcome
+35,102,432596,Immune defect,outcome
+35,102,4090353,Incompetent urethral closure mechanism,outcome
+35,102,434872,Infection by Trichomonas,outcome
+35,102,440053,Infestation by insect,outcome
+35,102,434063,Jaw to cranial base anomaly,outcome
+35,102,201620,Kidney stone,outcome
+35,102,377873,Lid lag,outcome
+35,102,435516,Lipoprotein deficiency disorder,outcome
+35,102,4210746,Localized amyloidosis,outcome
+35,102,4051630,Malingering,outcome
+35,102,439795,Minimal cognitive impairment,outcome
+35,102,377572,Noise effects on inner ear,outcome
+35,102,381302,Obstruction of Eustachian tube,outcome
+35,102,439035,Otosclerosis,outcome
+35,102,375292,Perforation of tympanic membrane,outcome
+35,102,78162,Peripheral vertigo,outcome
+35,102,437092,Physiological development failure,outcome
+35,102,4080568,Problem behavior,outcome
+35,102,25518,Sickle cell trait,outcome
+35,102,255302,Spontaneous pneumothorax,outcome
+35,102,4002572,"Uncomplicated sedative, hypnotic AND/OR anxiolytic withdrawal",outcome
+35,102,195590,Urethral stricture,outcome
+35,102,314754,Wheezing,outcome
+35,102,440193,Wristdrop,outcome
